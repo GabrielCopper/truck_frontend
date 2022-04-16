@@ -28,10 +28,7 @@ export default function HowTo() {
         />
         <link rel="icon" href="/favicon.ico" />
 
-        <link
-          rel="canonical"
-          href="https://www.signsfortrucks.com/how-to/"
-        />
+        <link rel="canonical" href="https://www.signsfortrucks.com/how-to/" />
       </Head>
 
       <main>
